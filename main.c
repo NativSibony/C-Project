@@ -1,8 +1,7 @@
 #pragma once
 /*
  ============================================
- Project Name : HW3_NativSibonyAndNoaAviel.c
- Authors      : Nativ Sibony & Noa Aviel
+ Authors      : Nativ Sibony
  Description  : Home Work 3 in C
  ============================================
  */
